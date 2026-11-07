@@ -1,21 +1,21 @@
 # Hola, soy Samuel Roguez 👋
 
-Consultor de **Marketing Digital**, especialista en **SEO Local** en Tenerife, diseñador web de alto rendimiento y automatizador de flujos con **n8n** y Python.
+Consultor de **marketing digital**, especialista en **SEO local** en Tenerife y diseñador web de alto rendimiento. También automatizo flujos con **n8n** y Python.
 
 Trabajo con un enfoque directo de profesional a profesional: páginas web ultrarrápidas, auditorías técnicas basadas en evidencias empíricas y arquitecturas de datos a coste 0 € en licencias.
 
 ---
 
-### 🚀 Especialidades y Servicios
+### 🚀 Especialidades y servicios
 
-- 📍 **SEO Local & Google Maps:** Posicionamiento geolocalizado en Canarias y optimización de fichas de negocio.
-- ⚡ **Diseño Web & WPO:** Sitios web ultrarrápidos con **Astro 5** y **WordPress nativo** (Core Web Vitals 100/100, LCP < 1s).
-- 🔄 **Automatizaciones No-Code / Code:** Flujos de trabajo con **n8n**, integración de CRMs y APIs sin dependencias de terceros.
-- 🛠️ **Herramientas Abiertas:** Creación de extensiones de navegador y utilidades para inspección SEO y saneamiento de metadatos.
+- 📍 **SEO local & Google Maps:** Posicionamiento geolocalizado en Canarias y optimización de fichas de negocio.
+- ⚡ **Diseño web & WPO:** Sitios web ultrarrápidos con **Astro 5** y **WordPress nativo** (Core Web Vitals 100/100, LCP < 1s).
+- 🔄 **Automatizaciones no-code / code:** Flujos de trabajo con **n8n**, integración de CRMs y APIs sin dependencias de terceros.
+- 🛠️ **Herramientas abiertas:** Adaptación y creación de Apps o extensiones con utilidades para inspección SEO y saneamiento de metadatos.
 
 ---
 
-### 💻 Stack Tecnológico
+### 💻 Stack tecnológico
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -29,9 +29,9 @@ Trabajo con un enfoque directo de profesional a profesional: páginas web ultrar
 
 ---
 
-### 🌐 Conecta Conmigo
+### 🌐 Conecta conmigo
 
-- 🌍 **Sitio Web Oficial:** [samuelroguez.com](https://samuelroguez.com/)
-- 💼 **Servicios y Presupuestos:** [samuelroguez.com/contacto](https://samuelroguez.com/contacto)
+- 🌍 **Sitio web oficial:** [samuelroguez.com](https://samuelroguez.com/)
+- 💼 **Servicios y presupuestos:** [samuelroguez.com/contacto](https://samuelroguez.com/contacto)
 - 📩 **Contacto:** [contacto@samuelroguez.com](mailto:contacto@samuelroguez.com)
 - 💬 **WhatsApp Directo:** [+34 644 09 73 96](https://samuelroguez.com/go/wa)
