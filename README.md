@@ -32,6 +32,6 @@ Trabajo con un enfoque directo de profesional a profesional: páginas web ultrar
 ### 🌐 Conecta Conmigo
 
 - 🌍 **Sitio Web Oficial:** [samuelroguez.com](https://samuelroguez.com/)
-- 💼 **Servicios y Presupuestos:** [samuelroguez.com/#contacto](https://samuelroguez.com/#contacto)
+- 💼 **Servicios y Presupuestos:** [samuelroguez.com/#contacto](https://samuelroguez.com/contacto)
 - 📩 **Contacto:** [contacto@samuelroguez.com](mailto:contacto@samuelroguez.com)
 - 💬 **WhatsApp Directo:** [+34 644 09 73 96](https://samuelroguez.com/go/wa)
